@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Moronfoluwa Akintola is a software engineer with 3+ years’ experience. He seeks to leverage solid skills in artificial intelligence and cross-platform software development. He is passionate about software engineering and community building, this has introduced him to many technical communities like Google Developer Students Clubs and Andela Learning Community.
+Moronfoluwa Akintola is a software engineer with 3+ years’ experience. He started out as a self-taught software developer in the university, where he also led the Google Developer Student's Club, a community of student developers on campus to build solutions for local problems in a peer-to-peer learning environment. He is passionate about software engineering and community building, this has introduced him to many technical communities like Google Developer Students Clubs and Andela Learning Community.
 <!--
 **Foluwa/foluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
