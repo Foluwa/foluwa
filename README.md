@@ -1,4 +1,11 @@
 ### Hi there, I'm Moronfoluwa Akintola 👋
+ 
+ <div>
+  <a href="https://github.com/foluwa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foluwa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foluwa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 - 🔭 I’m currently working on something really cool
 - 🌱 I build web and mobile applications for small and large scale businesses
 - 🥅 **2021 Goals:** Productionizing Machine Learning Models as APIs
@@ -32,21 +39,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
-<br />
 
 ---
 
-<!-- ### 📕 Latest Blog Posts on Medium -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-<!-- <img align="left" alt="Foluwa's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=foluwa&show_icons=true&hide_border=true" /> -->
- <div>
-  <a href="https://github.com/foluwa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foluwa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foluwa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 [website]: http://foluwa.github.io/
 [instagram]: https://www.instagram.com/fantasticfoluwa/
