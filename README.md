@@ -1,17 +1,17 @@
-### Hi there, I'm Moronfoluwa Akintola 👋
- 
- <div>
-  <a href="https://github.com/foluwa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foluwa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foluwa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
+### Hi there, I'm Moronfoluwa Akintola 👋 
 - 🔭 I’m currently working on something really cool
 - 🌱 I build web and mobile applications for small and large scale businesses
 - 🥅 **2021 Goals:** Productionizing Machine Learning Models as APIs
 - 👥 I am a member of Google Developer Students Clubs, AI Saturdays Lagos and Andela Learning Community
 - 💬 Ask me about Full Stack, Deep Learning, and Full Stack dev 
 - ⚡ Fun fact: I love listening to jazz music
+
+---
+<div>
+  <a href="https://github.com/foluwa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foluwa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foluwa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Connect with me:
 
