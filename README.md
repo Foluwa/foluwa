@@ -1,10 +1,11 @@
-### Hi there, I'm Moronfoluwa Akintola 👋 
+### Hi there, I'm Moronfoluwa 👋 
 - 🔭 I’m currently working on something really cool
 - 🌱 I build web and mobile applications for small and large scale businesses
 - 🥅 **2022 Goals:** Productionizing Machine Learning Models as APIs
 - 👥 I am a member of Google Developer Students Clubs, AI Saturdays Lagos and Andela Learning Community
 - 💬 Ask me about Full Stack, Deep Learning, and Full Stack dev 
 - ⚡ Fun fact: I love listening to jazz music
+- 📫 How to reach me: moronfoluwaakintola@gmail.com
 
 ---
 <div>
