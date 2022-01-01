@@ -1,7 +1,7 @@
 ### Hi there, I'm Moronfoluwa Akintola 👋 
 - 🔭 I’m currently working on something really cool
 - 🌱 I build web and mobile applications for small and large scale businesses
-- 🥅 **2021 Goals:** Productionizing Machine Learning Models as APIs
+- 🥅 **2022 Goals:** Productionizing Machine Learning Models as APIs
 - 👥 I am a member of Google Developer Students Clubs, AI Saturdays Lagos and Andela Learning Community
 - 💬 Ask me about Full Stack, Deep Learning, and Full Stack dev 
 - ⚡ Fun fact: I love listening to jazz music
