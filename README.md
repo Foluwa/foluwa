@@ -26,7 +26,7 @@ As a passionate Data Scientist with a strong academic foundation and a focus on 
 
 ### Education 🎓  
 - **MSc in Data Science** - University of Hertfordshire (Distinction)  
-- **Bachelors in Computer Science** - Osun State University]
+- **Bachelors in Computer Science** - Osun State University
 
 ### Certifications 📜  
 - [Pytorch Deep Learning (Udacity Inc.)](https://confirm.udacity.com/LMGTAFSR) 		 	       	                		    
