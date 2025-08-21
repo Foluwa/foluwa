@@ -8,10 +8,10 @@
 🔗 **LinkedIn:** [Folu Akintola](https://www.linkedin.com/in/moronfoluwaakintola/)  
 
 ### About Me 🌐  
-As a passionate Data Scientist with a strong academic foundation and a focus on practical applications, I specialize in leveraging advanced machine learning and deep learning techniques to solve real-world problems. My expertise spans across data analysis, model development, and deploying AI solutions with a keen interest in healthcare and technology sectors.
+As a passionate Data Scientist with a strong academic foundation and a focus on practical applications, I specialise in leveraging advanced machine learning and deep learning techniques to solve real-world problems. My expertise spans data analysis, model development, and deploying AI solutions with a keen interest in the healthcare and technology sectors.
 
 ### Professional Highlights 🌟  
-- **Intern** - Nanu Tech: Contributing to impactful projects in AI and data science.  
+- **ML Engineer** - Nanu Tech: Contributing to impactful projects in AI and data science.  
 - **Fellow** - [KaggleX Program (2024)](https://www.kaggle.com/KaggleX-2024-project-showcase): Collaborating with global talent to develop innovative machine learning solutions.  
 
 ### Selected Projects 🏆  
@@ -33,4 +33,4 @@ As a passionate Data Scientist with a strong academic foundation and a focus on 
 - [Programming for Data Science with Python (Udacity Inc.)](https://confirm.udacity.com/FCPX6QRV) 	 	       	       		        
 - [ALX-T Cloud Developer (Udacity Inc.)](https://www.udacity.com/certificate/WLZJGNMK)
 
-🔗 I analyze data and develop AI solutions. Open to collaboration and discussion - let's connect!
+🔗 I analyse data and develop AI solutions. Open to collaboration and discussion - let's connect!
